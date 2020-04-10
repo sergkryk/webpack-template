@@ -56,6 +56,8 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "merge": ">=1.2.1",
+    "deep-extend": ">=0.5.1"
   }
 }
